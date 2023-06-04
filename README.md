@@ -1,1 +1,1 @@
-# js-goit-newsapi
+# goit-js--newsapi
